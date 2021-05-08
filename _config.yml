@@ -1,0 +1,12 @@
+theme: jekyll-theme-minimal
+
+author: Daisuke Shimizu
+
+lang: ja
+timezone: Asia/Tokyo
+
+title: "Web を汚す Weblog"
+description: ""
+
+twitter:
+  username: d_shimizu
